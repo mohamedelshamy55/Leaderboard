@@ -1,65 +1,53 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Leaderboard
 
-# Project Name
+> In this activity you will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. You should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. In following activities, you will consume the Leaderboard API using JavaScript async and await and add some styling.
 
-> One paragraph statement about the project.
+## Screenshots:
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://github.com/mohamedelshamy55/Leaderboard/blob/setup-project/screenshot.png)
 
-Additional description about the project and its features.
+
+Porject's features are added into seperate branch to keep main branch safe.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
+- Webpack
 
-## Live Demo
+## Online live link
 
-[Live Demo Link](https://livedemo.com)
-
+[Visit project online](https://github.com/mohamedelshamy55/Leaderboard)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Using it Locally
+- Clone the project from GitHub [here](https://github.com/mohamedelshamy55/Leaderboard.git)
+- Run the following commands as listed in your terminal:
+- `npm install`
+- `npm run build`
+- `npm start`
 
-### Setup
+## Visit And Open Files
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Visit Repo](https://github.com/mohamedelshamy55/Leaderboard)
 
 ## Authors
 
-👤 **Author1**
+👤 **MOHAMED ELSHAMY**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/mohamedelshamy55)
+- Twitter: [@twitterhandle](https://mobile.twitter.com/moelshamy55)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-elshamy85/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/mohamedelshamy55/Leaderboard/issues).
 
 ## Show your support
 
@@ -67,10 +55,15 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Inspiration: Microverse
 
-## 📝 License
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
-This project is [MIT](./MIT.md) licensed.
+Show your support
+Give a ⭐️ if you like this project!
+
+Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc 📝 License This project is MIT licensed.
