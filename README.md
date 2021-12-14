@@ -1,10 +1,10 @@
-# To Do List
+# Leaderboard
 
-> To Do List project is list of todo items, users can add and remove item from todo list.
+> In this activity you will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. You should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. In following activities, you will consume the Leaderboard API using JavaScript async and await and add some styling.
 
 ## Screenshots:
 
-![screenshot]()
+![screenshot](https://github.com/mohamedelshamy55/Leaderboard/blob/setup-project/screenshot.png)
 
 
 Porject's features are added into seperate branch to keep main branch safe.
@@ -18,14 +18,14 @@ Porject's features are added into seperate branch to keep main branch safe.
 
 ## Online live link
 
-[Visit project online](https://github.com/mohamedelshamy55/To-Do-List)
+[Visit project online](https://github.com/mohamedelshamy55/Leaderboard)
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 ### Using it Locally
-- Clone the project from GitHub [here](git@github.com:mohamedelshamy55/todo-list.git)
+- Clone the project from GitHub [here](https://github.com/mohamedelshamy55/Leaderboard.git)
 - Run the following commands as listed in your terminal:
 - `npm install`
 - `npm run build`
@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Visit And Open Files
 
-[Visit Repo](https://github.com/mohamedelshamy55/To-Do-List)
+[Visit Repo](https://github.com/mohamedelshamy55/Leaderboard)
 
 ## Authors
 
@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mohamedelshamy55/To-Do-List/issues).
+Feel free to check the [issues page](https://github.com/mohamedelshamy55/Leaderboard/issues).
 
 ## Show your support
 
